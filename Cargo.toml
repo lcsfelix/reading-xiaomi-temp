@@ -3,8 +3,7 @@ name = "xiaomi"
 version = "0.1.0"
 authors = ["Luis Félix <lcs.felix@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 blurz = "0.4.0"
